@@ -24,20 +24,18 @@
 - PyTorch
 - Pandas
 - NumPy
-- Polars
 
 ### AI / LLM
 - RAG Systems
 - LLM Applications
 - Embeddings
 - Vector Databases
-- LangChain
 
 ### Development
 - FastAPI
 - Docker
 - Git
-- Linux
+
 
 ---
 
