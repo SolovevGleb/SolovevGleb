@@ -74,6 +74,7 @@
 
 # 📫 Контакты
 
-Telegram: @your_username
+Telegram: @solovev_gleb
 
-Email: your_email
+Email: glebsss01@gmail.com
+
