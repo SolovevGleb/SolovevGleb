@@ -6,37 +6,6 @@
 
 Работаю с ML-моделями, анализом данных и созданием AI-сервисов. Интересуюсь применением машинного обучения для решения практических задач: от построения моделей до разработки интеллектуальных приложений.
 
-Готов к сотрудничеству 🤝
-
----
-
-# 🛠 Языки и инструменты
-
-### Programming
-🐍 Python  
-💻 SQL  
-⚙️ C/C++
-
-### Machine Learning
-- Scikit-learn
-- CatBoost
-- LightGBM
-- PyTorch
-- Pandas
-- NumPy
-
-### AI / LLM
-- RAG Systems
-- LLM Applications
-- Embeddings
-- Vector Databases
-
-### Development
-- FastAPI
-- Docker
-- Git
-
-
 ---
 
 # 🚀 Мои проекты
@@ -47,26 +16,6 @@
 | 🧠 **Recommendation System** | ML-система рекомендаций контента. Анализ пользовательских взаимодействий, подготовка данных, Feature Engineering и обучение моделей. Работа с датасетом 3+ млн взаимодействий. | Python, Pandas, Polars, CatBoost, LightGBM, PyTorch, Scikit-learn |
 | 📊 **ML Classification Projects** | Решение задач классификации: исследовательский анализ данных, подготовка признаков, обучение моделей, подбор параметров и оценка качества. | Python, Pandas, NumPy, Scikit-learn, CatBoost |
 | 📈 **Gnomes Classification** | Классификация объектов с использованием градиентного бустинга. Проведены анализ данных, Feature Engineering и оптимизация модели. | Python, CatBoost, Pandas, Scikit-learn |
-
----
-
-# 🎓 Образование
-
-**Московский авиационный институт (МАИ)**
-
-Дополнительное обучение:
-- Machine Learning
-- Deep Learning
-- Statistics & A/B Testing
-
----
-
-# 📚 Сейчас изучаю
-
-- Advanced Machine Learning
-- Deep Learning
-- MLOps
-- LLM Engineering
 
 ---
 
