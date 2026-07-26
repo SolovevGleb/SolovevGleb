@@ -1,6 +1,6 @@
 # Привет, я Глеб 👋
 
-## ML Engineer | AI Engineer
+## ML Engineer | AI Applications
 
 Занимаюсь разработкой решений в области машинного обучения и искусственного интеллекта.
 
@@ -12,8 +12,8 @@
 
 | Название проекта | Описание проекта | Стек |
 |---|---|---|
-| 🧠 **Проект 1 [Recommendation System](https://github.com/SolovevGleb/for_project_2)** | ML-система рекомендаций контента. Анализ пользовательских взаимодействий, подготовка данных, Feature Engineering и обучение моделей. Работа с датасетом 3+ млн взаимодействий. | Python, Pandas, Polars, CatBoost, LightGBM, PyTorch, Scikit-learn |
-| 🤖 **Проект 2 [RAG-система для работы с документацией](https://github.com/SolovevGleb/for_project_1)** | AI-система поиска информации и генерации ответов по базе документов. Реализован процесс обработки документов, создание эмбеддингов, поиск релевантного контекста и генерация ответов с помощью LLM. | Python, LangChain, LLM, Embeddings, Vector Database, FastAPI |
+| 🧠 **[Recommendation System](https://github.com/SolovevGleb/for_project_2)** | ML-система рекомендаций контента. Анализ пользовательских взаимодействий, подготовка данных, Feature Engineering и обучение моделей. Работа с датасетом 3+ млн взаимодействий. | Python, Pandas, Polars, CatBoost, LightGBM, PyTorch, Scikit-learn |
+| 🤖 **[RAG-система для работы с документацией](https://github.com/SolovevGleb/for_project_1)** | AI-система поиска информации и генерации ответов по базе документов. Реализован процесс обработки документов, создание эмбеддингов, поиск релевантного контекста и генерация ответов с помощью LLM. | Python, LangChain, LLM, Embeddings, Vector Database, FastAPI |
 
 ---
 
